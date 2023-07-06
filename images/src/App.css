@@ -1,0 +1,16 @@
+.appClass{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(110, 147, 168);
+  color:rgb(254, 254, 254);
+ 
+}
+
+.imageClass{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  padding:25%;
+}

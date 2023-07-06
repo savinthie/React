@@ -1,0 +1,22 @@
+.appClass{
+  display:flex;
+  flex-direction:column;
+  border:1px solid black;
+  width:25%;
+  margin-top:2%;
+  margin-left:2%;
+  justify-content: center;
+  align-items:center;
+  
+}
+
+form{
+
+  margin:2% 0%;
+
+}
+
+button{
+  margin-top:2%;
+  width:200px;
+}
