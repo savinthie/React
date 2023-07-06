@@ -1,0 +1,21 @@
+.appClass{
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebarClass{
+  background-color: rgba(95, 158, 160, 0.466);
+  width:50%;
+  height:100vh;
+  text-align:center;
+
+
+}
+
+.headerClass{
+  background-color: lightpink;
+  text-align: center;
+  
+  
+
+}
